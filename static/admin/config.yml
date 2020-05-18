@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: GhostRicity/archy-styles
+  branch: master
+  use_graphql: true
+
+publish_mode: editorial_workflow
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - label: Blog
+    name: blog
+    folder: blog
+    create: true
+    fields:
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: thumbnail, label: thumbnail, widget: image }
+      - { name: description, label: Description }
+      - { name: tags, label: tags, widget: string }
+      - { name: body, label: Body, widget: markdown }
