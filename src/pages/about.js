@@ -18,7 +18,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Retro back car catalog
+            Hello all,
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -27,7 +27,6 @@ const AboutPage = ({ data }, location) => {
             />
           </figure>
           <h3 id="dynamic-styles">Old new new</h3>
-          <p>Hello all, </p>
           <p>
           Welcome to ArchyStyles, your next step for life improvements. This is a personal blog, guidance for better days.
           I want to share with you my personal experience, doing things that make me happy, life hacks, and much much more. Stay tuned!
