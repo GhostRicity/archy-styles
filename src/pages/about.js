@@ -27,20 +27,10 @@ const AboutPage = ({ data }, location) => {
             />
           </figure>
           <h3 id="dynamic-styles">Old new new</h3>
-          <p>Look at cars hear read news and buy buy buy.</p>
+          <p>Hello all, </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </p>
-          <p>
-            Dont forget to check out the{" "}
-            <a href="https://eddythedev.com/">my portfolio website.</a> for
-            buissnes inquaries.
+          Welcome to ArchyStyles, your next step for life improvements. This is a personal blog, guidance for better days.
+          I want to share with you my personal experience, doing things that make me happy, life hacks, and much much more. Stay tuned!
           </p>
         </div>
       </article>
@@ -55,7 +45,7 @@ const indexQuery = graphql`
         title
       }
     }
-    benchAccounting: file(relativePath: { eq: "darkg.jpeg" }) {
+    benchAccounting: file(relativePath: { eq: "abaut.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
