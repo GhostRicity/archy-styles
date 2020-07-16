@@ -17,7 +17,7 @@ class TagPageTemplate extends React.Component {
         <SEO
           // title={`#${tag}`}
           title={`#${tag.charAt(0).toUpperCase() + tag.slice(1)}`}
-          keywords={[`${tag}`, `blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`${tag}`, `blog`, `archy`, `lifestyle`, `yoga`]}
         />
         <header className="tag-page-head">
           <h1 className="page-head-title">
