@@ -26,7 +26,7 @@ const AboutPage = ({ data }, location) => {
               className="kg-image"
             />
           </figure>
-          <h3 id="dynamic-styles">Old new new</h3>
+          <h3 id="dynamic-styles">The blog</h3>
           <p>
           Welcome to ArchyStyles, your next step for life improvements. This is a personal blog, guidance for better days.
           I want to share with you my personal experience, doing things that make me happy, life hacks, and much much more. Stay tuned!

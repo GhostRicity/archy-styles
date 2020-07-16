@@ -54,13 +54,13 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
+        Built by{" "}
         <a
-          href="https://gatsbyjs.org"
+          href="http://eddythedev.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gatsby
+          Eduards Birznieks
         </a>
       </footer>
     </div>
