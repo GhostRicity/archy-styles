@@ -3,7 +3,7 @@ date: 2020-07-17T10:06:13.943Z
 title: Benefit Drinks
 thumbnail: /img/2020-03-26-10-25-13.527.jpg
 description: "Lemon Honey Water "
-tags: "[lemon, honey]"
+tags: [lemon, honey]
 ---
 It is not just delicious, but also amazing for our body and soul.
 
