@@ -37,6 +37,7 @@ const TagIndex = ({ data }) => {
   )
 }
 
+
 const indexQuery = graphql`
   query {
     site {
