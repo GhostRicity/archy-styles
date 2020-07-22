@@ -19,5 +19,5 @@ collections:
       - { name: title, label: Title }
       - { name: thumbnail, label: thumbnail, widget: image }
       - { name: description, label: Description }
-      - { name: "tags", label: "tags", widget: "list" }
+      - { name: "tags", label: "tags", widget: "list", required: "false" }
       - { name: body, label: Body, widget: markdown }
