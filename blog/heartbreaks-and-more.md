@@ -1,7 +1,7 @@
 ---
 date: 2020-10-28T15:43:35.424Z
 title: Heartbreaks and More
-thumbnail: /img/image-1.jpeg
+thumbnail: /img/image-2.jpeg
 description: "Pain "
 tags:
   - heartbreaks
